@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45450" started-at="2021-10-01T23:13:57 IST" finished-at="2021-10-01T23:14:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45450" started-at="2021-10-01T23:13:57 IST" finished-at="2021-10-01T23:14:43 IST">
+      <class name="org.testng_runner.TestNG_Runner">
+        <test-method status="PASS" signature="configuration()[pri:0, instance:org.testng_runner.TestNG_Runner@3febb011]" name="configuration" is-config="true" duration-ms="1950" started-at="2021-10-01T23:13:57 IST" finished-at="2021-10-01T23:13:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testng_runner.TestNG_Runner@3febb011]" name="browserLaunch" is-config="true" duration-ms="13009" started-at="2021-10-01T23:13:59 IST" finished-at="2021-10-01T23:14:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="home_Page()[pri:0, instance:org.testng_runner.TestNG_Runner@3febb011]" name="home_Page" duration-ms="6065" started-at="2021-10-01T23:14:12 IST" finished-at="2021-10-01T23:14:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_Page -->
+        <test-method status="PASS" signature="search_Hotel()[pri:1, instance:org.testng_runner.TestNG_Runner@3febb011]" name="search_Hotel" duration-ms="4779" started-at="2021-10-01T23:14:19 IST" finished-at="2021-10-01T23:14:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Hotel -->
+        <test-method status="PASS" signature="select_Hotel()[pri:2, instance:org.testng_runner.TestNG_Runner@3febb011]" name="select_Hotel" duration-ms="1647" started-at="2021-10-01T23:14:24 IST" finished-at="2021-10-01T23:14:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Hotel -->
+        <test-method status="PASS" signature="book_Now()[pri:3, instance:org.testng_runner.TestNG_Runner@3febb011]" name="book_Now" duration-ms="2670" started-at="2021-10-01T23:14:25 IST" finished-at="2021-10-01T23:14:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_Now -->
+        <test-method status="PASS" signature="booking_Confirm()[pri:4, instance:org.testng_runner.TestNG_Runner@3febb011]" name="booking_Confirm" duration-ms="11259" started-at="2021-10-01T23:14:28 IST" finished-at="2021-10-01T23:14:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking_Confirm -->
+        <test-method status="PASS" signature="iteinerary()[pri:5, instance:org.testng_runner.TestNG_Runner@3febb011]" name="iteinerary" duration-ms="869" started-at="2021-10-01T23:14:39 IST" finished-at="2021-10-01T23:14:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iteinerary -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.testng_runner.TestNG_Runner@3febb011]" name="browserClose" is-config="true" duration-ms="681" started-at="2021-10-01T23:14:40 IST" finished-at="2021-10-01T23:14:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:org.testng_runner.TestNG_Runner@3febb011]" name="flush" is-config="true" duration-ms="2172" started-at="2021-10-01T23:14:41 IST" finished-at="2021-10-01T23:14:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- org.testng_runner.TestNG_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
